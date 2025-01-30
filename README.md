@@ -1,2 +1,6 @@
 # csun25_project
-project colab with jordan otero
+
+Project collaboration
+Members:
+- Alwin Ray Roble
+- 

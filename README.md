@@ -8,4 +8,4 @@ Members:
 Ideas:
 - fitness tracker 
 - budget app
-- 
+- brainstorm for 2 days

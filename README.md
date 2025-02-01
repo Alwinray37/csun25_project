@@ -6,6 +6,9 @@ Members:
 - Jordan Otero
 
 Ideas:
-- fitness tracker 
-- budget app
-- brainstorm for 2 days
+- Fitness tracker 
+- Budget app
+- Gaming Blog
+- Stock reader/tracker
+
+I think we can still brainstorm for a few more days and start building something lets say by Wed

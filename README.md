@@ -5,13 +5,30 @@ Members:
 - Alwin Ray Roble
 - Jordan Otero
 
-Ideas:
-- Fitness tracker 
-- Budget app
-- Gaming Blog
-- Stock reader/tracker
+## Overview
+<!-- Describe the project -->
 
-I think we can still brainstorm for a few more days and start building something lets say by Wed
+## Tech Stack
+- Programming Languages: JavaScript
+- Framework: React + Vite
+- Tools: 
+- Dependencies: 
 
-The way I see it once we start up whatever we decide on we can add more and more to it because we 
-would already have something to build off of
+## Features
+- 1: 
+- 2: 
+
+## Installation and Setup
+1. Clone the repo: 
+```bash
+git clone https://github.com/csun25_project.git
+```
+2. Navigate to project folder:
+```bash
+cd csun25_project
+```
+3. Install Dependencies
+```bash
+npm install
+```
+4. Run Application 

@@ -6,7 +6,7 @@ Members:
 - Jordan Otero
 
 ## Overview
-<!-- Describe the project -->
+Stock Tracker
 
 ## Tech Stack
 - Programming Languages: JavaScript
@@ -15,8 +15,9 @@ Members:
 - Dependencies: 
 
 ## Features
-- 1: 
-- 2: 
+1. Search stocks 
+2. Add stocks to watchlist
+3.  
 
 ## Installation and Setup
 1. Clone the repo: 

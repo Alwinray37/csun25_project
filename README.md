@@ -5,6 +5,7 @@ Members:
 - Alwin Ray Roble
 - Jordan Otero
 
+<<<<<<< HEAD
 ## Overview
 Stock Tracker
 
